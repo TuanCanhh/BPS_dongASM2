@@ -1,0 +1,1201 @@
+SaleID,CustomerID,ProductID,SaleDate,Quantity,TotalAmount,DiscountApplied,PaymentMethod,ShippingAddress,OrderStatus
+1.0,2.0,512.0,2003-01-23,9.0,142.76,25.92,Cash,"89550 Robinson Ridge
+Hamiltonview, KS 94490",Cancelled
+202.0,24.0,564.0,2003-01-23,4.0,2125.6,3.98,Online Payment,"81825 Frank Spurs Suite 923
+West Suzannechester, VA 35057",Completed
+203.0,169.0,554.0,2022-07-12,1.0,1837.02,69.07,Online Payment,"7404 Vargas Ville
+Lake Edwinmouth, RI 08020",Pending
+204.0,165.0,516.0,2003-01-23,4.0,179.42,42.82,Bank Transfer,"PSC 2385, Box 3590
+APO AE 23061",Completed
+1.0,92.0,567.0,2022-02-09,2.0,1644.63,28.4,Online Payment,"680 Bonilla Ways
+Port Lori, DE 72628",Pending
+206.0,108.0,523.0,2022-05-09,3.0,445.77,38.53,Bank Transfer,"73280 Tyrone Road
+Lake Logan, SD 87348",Pending
+1.0,59.0,515.0,2003-01-23,1.0,1033.41,73.67,Cash,"9829 Patton Villages Apt. 270
+Kimberlyside, ID 27908",Cancelled
+208.0,27.0,546.0,2003-01-23,9.0,306.31,87.01,Bank Transfer,"PSC 6858, Box 6986
+APO AE 56439",Cancelled
+209.0,77.0,599.0,,7.0,1033.73,96.23,Bank Transfer,"75320 Nelson Center
+West Reginald, GA 53431",Completed
+210.0,194.0,457.0,,4.0,765.62,48.31,Online Payment,"9632 Noble Trafficway
+North Taylorfurt, FL 77111",Cancelled
+211.0,111.0,483.0,2023-11-10,1.0,1157.49,18.38,Online Payment,"838 Richard Squares Apt. 438
+Whiteburgh, WV 33847",Cancelled
+212.0,107.0,512.0,,7.0,1222.11,87.1,Bank Transfer,"2483 Carpenter Ports Apt. 563
+Lake Jamie, IA 40128",Cancelled
+213.0,66.0,478.0,,3.0,821.41,19.49,Bank Transfer,"92323 Smith Loaf Apt. 138
+Cookville, DE 28313",Pending
+214.0,124.0,406.0,2023-11-09,7.0,2144.0,10.67,Bank Transfer,"PSC 2792, Box 3586
+APO AP 59850",Completed
+215.0,44.0,473.0,2024-04-03,6.0,2677.29,34.04,Credit Card,"14949 Pierce Roads
+Port Davidton, SD 53611",Cancelled
+216.0,56.0,503.0,,3.0,536.92,57.13,Credit Card,"74355 Harrison Greens Apt. 462
+Tamarastad, CA 66287",Cancelled
+217.0,146.0,489.0,,5.0,2504.31,10.63,Bank Transfer,"0241 Tristan Plain
+Moralesview, ME 20854",Cancelled
+218.0,13.0,494.0,2023-07-08,1.0,3796.08,33.04,Online Payment,"763 Neal Parkways Suite 226
+West Kathryn, GA 97001",Completed
+219.0,166.0,447.0,,1.0,735.27,50.8,Online Payment,"708 Gregory Via
+Sarahberg, NJ 99225",Completed
+220.0,44.0,421.0,,3.0,1840.18,12.17,Cash,"24965 Esparza Plains
+Port Richardville, AZ 88812",Completed
+221.0,172.0,589.0,,7.0,895.48,5.74,Online Payment,"206 Cisneros Ford
+South Arielchester, AZ 66297",Pending
+222.0,88.0,453.0,,8.0,187.64,54.96,Credit Card,"1896 Smith Skyway
+New Darrenbury, IL 87033",Completed
+223.0,7.0,403.0,,5.0,1562.11,55.54,Credit Card,"04267 Brown Motorway
+South Thomastown, ND 97925",Pending
+224.0,169.0,579.0,,5.0,1555.4,20.18,Bank Transfer,"45335 Abbott Plaza
+Swansonfurt, WI 05131",Completed
+225.0,79.0,467.0,2023-04-12,4.0,3350.92,66.4,Credit Card,"014 Jeffrey Mountain Apt. 699
+Johnville, ID 78535",Pending
+226.0,119.0,561.0,,1.0,812.87,8.18,Bank Transfer,"9072 Howell Highway Apt. 996
+Port Brenda, TN 10572",Pending
+227.0,48.0,511.0,2024-06-03,6.0,4002.07,55.55,Credit Card,"409 Sanchez Burgs
+Castanedafurt, ND 93650",Cancelled
+228.0,153.0,427.0,,6.0,2308.46,37.82,Cash,"309 Matthew Trafficway
+Ayersshire, ID 53761",Cancelled
+229.0,121.0,432.0,,4.0,560.35,65.62,Cash,"645 Anne Trail
+Aliciaborough, CA 17768",Cancelled
+230.0,124.0,436.0,,1.0,2466.01,37.68,Credit Card,"0902 Mann Hills
+Lake Heidi, IL 83963",Completed
+231.0,37.0,410.0,,9.0,2318.1,24.59,Cash,"37768 Sanders Motorway
+Johnsonland, MA 19688",Completed
+232.0,198.0,547.0,2024-08-03,5.0,716.89,4.23,Bank Transfer,"5926 Steele Loop
+Gomezside, DC 03139",Pending
+233.0,144.0,466.0,,2.0,2405.47,87.04,Bank Transfer,"584 Kevin Estates
+West Christopherbury, UT 77260",Cancelled
+234.0,117.0,505.0,,7.0,1133.52,27.89,Credit Card,"589 Schmidt Freeway
+New Travismouth, MO 92023",Cancelled
+235.0,197.0,574.0,2023-04-12,7.0,1371.48,15.71,Cash,"249 David Orchard
+Hillborough, MD 36434",Completed
+236.0,118.0,579.0,,8.0,914.75,22.74,Cash,"51905 Wagner Branch Apt. 059
+Whiteview, ME 24649",Cancelled
+237.0,66.0,421.0,2023-08-07,1.0,1842.29,15.19,Online Payment,"01013 Peter River
+Port Saraview, ND 58045",Pending
+238.0,129.0,552.0,2022-06-08,3.0,3083.77,42.4,Credit Card,"024 Stephanie Ford
+Margarethaven, TN 01097",Completed
+239.0,140.0,457.0,,9.0,818.67,28.77,Online Payment,"5214 Kristy Ports Suite 859
+Port Petertown, DC 22433",Completed
+240.0,87.0,502.0,2023-07-06,4.0,887.06,33.19,Cash,"3270 Cynthia Stravenue Apt. 129
+Debratown, MA 69927",Cancelled
+241.0,132.0,443.0,2023-05-04,5.0,445.39,36.75,Bank Transfer,"530 Victor Street Suite 824
+North Brandon, WV 39596",Completed
+242.0,177.0,488.0,,9.0,1288.64,30.27,Bank Transfer,"USNS Krueger
+FPO AP 35655",Completed
+243.0,71.0,432.0,,4.0,461.54,35.83,Bank Transfer,"38718 Jeffrey Port
+New Matthew, VT 87998",Cancelled
+244.0,143.0,448.0,2023-02-11,2.0,1478.39,22.89,Cash,"81423 Rebecca Coves Suite 130
+Danielmouth, RI 38383",Pending
+245.0,154.0,507.0,,3.0,1082.79,39.01,Online Payment,"3342 Bruce Junctions
+Aprilhaven, NM 43270",Cancelled
+246.0,3.0,401.0,,4.0,2132.17,31.07,Bank Transfer,"995 Church Extensions
+Candaceland, KY 93866",Completed
+247.0,20.0,559.0,,4.0,666.95,63.11,Credit Card,"4337 Clark Haven
+Markbury, WA 68689",Completed
+248.0,109.0,583.0,2023-09-11,4.0,1336.65,62.29,Bank Transfer,"444 Moore Run
+Mcdowellchester, NE 88421",Completed
+249.0,160.0,451.0,2023-09-12,6.0,312.4,7.69,Cash,"169 Diaz Mission
+Stewartmouth, NJ 28908",Completed
+250.0,38.0,539.0,,7.0,531.25,56.14,Cash,"841 Miller Divide
+Hardingmouth, MN 55140",Completed
+251.0,128.0,409.0,,8.0,222.15,29.31,Credit Card,"241 Becky Freeway Apt. 494
+Cohenland, WA 95998",Completed
+252.0,11.0,465.0,2022-01-11,3.0,2269.43,27.72,Bank Transfer,"53601 King Junction
+Ryanville, MT 42843",Completed
+253.0,75.0,495.0,,2.0,2084.96,52.95,Online Payment,"93719 Ashley Shoals Apt. 170
+East Dan, NE 89556",Cancelled
+254.0,47.0,406.0,,2.0,3283.27,33.55,Credit Card,"9941 Crystal Forks Suite 130
+North Jeffrey, NJ 15233",Completed
+255.0,122.0,409.0,,6.0,809.25,86.87,Cash,"433 Kennedy Trail
+Riosbury, AZ 90485",Pending
+256.0,151.0,565.0,,7.0,1691.15,5.66,Cash,"PSC 7326, Box 5734
+APO AA 28031",Pending
+257.0,115.0,546.0,,4.0,447.06,87.43,Credit Card,"2898 Rachel Square
+New Noahborough, MS 80710",Cancelled
+258.0,165.0,419.0,,8.0,1881.06,51.67,Cash,"Unit 3211 Box 3461
+DPO AE 74236",Completed
+259.0,140.0,539.0,2023-04-03,5.0,744.54,5.86,Cash,"7688 Kathryn Overpass Suite 169
+Heidifort, RI 24371",Cancelled
+260.0,70.0,459.0,,2.0,185.36,12.76,Bank Transfer,"USCGC Hale
+FPO AE 36338",Cancelled
+261.0,164.0,550.0,,2.0,1212.73,19.54,Cash,"569 Daniel Road
+Calvinville, MO 61626",Cancelled
+262.0,75.0,457.0,,9.0,626.89,10.25,Credit Card,"USNV Hanson
+FPO AA 56007",Completed
+263.0,35.0,454.0,,8.0,819.97,11.68,Credit Card,"4928 Stephanie Creek Apt. 243
+Jonathanville, NH 06577",Completed
+264.0,138.0,416.0,,6.0,2229.0,83.37,Online Payment,"997 Acosta Rest
+Brendaberg, IA 11705",Cancelled
+265.0,34.0,406.0,,5.0,1000.59,82.85,Online Payment,"USCGC Tanner
+FPO AA 75350",Cancelled
+266.0,49.0,430.0,,6.0,374.58,45.07,Cash,"76803 Rebecca Groves Apt. 655
+South Valerie, CO 59354",Cancelled
+267.0,109.0,416.0,,1.0,2400.13,13.75,Cash,"USNS Mclean
+FPO AA 76273",Completed
+268.0,159.0,457.0,,5.0,1205.33,50.33,Credit Card,"048 Xavier Mountains
+New Laura, VT 44522",Completed
+269.0,117.0,466.0,,7.0,1535.92,5.03,Bank Transfer,"63680 Washington Forge Suite 567
+Shannonborough, ND 38080",Completed
+270.0,159.0,594.0,2024-03-05,7.0,1761.04,4.8,Bank Transfer,"3232 Cox Cliff
+East Hailey, GA 28257",Cancelled
+271.0,186.0,441.0,2023-01-06,3.0,2415.19,12.73,Cash,"1554 Mark Mount Apt. 894
+Lake Jason, SC 69366",Cancelled
+272.0,5.0,569.0,,9.0,3094.33,48.82,Credit Card,"948 Amanda Shores
+Hodgemouth, WA 98267",Pending
+273.0,182.0,491.0,,7.0,1012.69,19.69,Bank Transfer,"8900 Robbins Tunnel Apt. 595
+North Lisa, MN 47146",Cancelled
+274.0,72.0,403.0,,1.0,1640.45,7.17,Credit Card,"76418 Amy Key Apt. 114
+Lake John, AK 13315",Completed
+275.0,29.0,543.0,2023-12-11,2.0,712.29,15.48,Online Payment,"9583 Santos Circles Suite 463
+Cooleyberg, AL 03911",Pending
+276.0,47.0,572.0,,3.0,2330.4,5.99,Cash,"5955 Elizabeth Grove Apt. 309
+Ricefort, KS 23040",Completed
+277.0,8.0,401.0,,2.0,3340.57,19.93,Bank Transfer,"2779 Huffman Shores Suite 615
+East David, CA 56644",Pending
+278.0,175.0,538.0,2023-03-09,2.0,3894.72,17.09,Bank Transfer,"536 Leach Locks Suite 696
+Merrittchester, WA 31097",Completed
+279.0,89.0,532.0,2024-08-04,8.0,952.54,41.65,Cash,"9981 Mercado Plaza
+Lake Katherineville, OH 51939",Completed
+280.0,33.0,513.0,,5.0,302.57,63.31,Credit Card,"8132 Elizabeth Walk
+Kelleyburgh, MT 34510",Cancelled
+281.0,54.0,518.0,,7.0,1629.96,73.02,Online Payment,"49229 Leslie Springs
+Justintown, TN 01904",Cancelled
+282.0,155.0,407.0,2024-07-03,3.0,1494.01,8.08,Credit Card,"183 Price Glens Apt. 340
+Irwinbury, FL 48063",Completed
+283.0,21.0,514.0,2024-10-03,2.0,760.89,5.24,Credit Card,"1514 Stevenson Forge Suite 707
+Smithborough, MT 86234",Cancelled
+284.0,24.0,497.0,2024-05-05,9.0,1779.04,28.91,Credit Card,"941 Kimberly Shore Suite 037
+New Brenda, NE 72322",Cancelled
+285.0,151.0,413.0,,1.0,2092.85,22.63,Credit Card,"524 Misty Lights
+West Brian, AR 03768",Pending
+286.0,73.0,435.0,,2.0,647.99,21.3,Bank Transfer,"57019 Osborne Village
+Kristenmouth, LA 65576",Cancelled
+287.0,172.0,405.0,,1.0,1552.75,52.0,Cash,"75663 Mark Union Suite 820
+Lake Dominic, PA 76628",Pending
+288.0,28.0,536.0,,7.0,873.32,20.97,Credit Card,"896 Jason Junction Apt. 375
+New Aaronmouth, ND 84297",Cancelled
+289.0,186.0,543.0,,3.0,231.09,16.45,Credit Card,"Unit 7470 Box 6072
+DPO AA 83283",Pending
+290.0,99.0,485.0,,8.0,787.78,19.69,Online Payment,"4465 Pamela Lodge Suite 409
+South Kara, NJ 64550",Cancelled
+291.0,14.0,508.0,,8.0,3272.99,10.97,Credit Card,"7806 Terrell Squares
+North Loriview, NH 74278",Cancelled
+292.0,160.0,525.0,,8.0,2284.45,6.54,Credit Card,"59900 Washington Hollow Suite 503
+Heathertown, IA 05605",Pending
+293.0,197.0,578.0,2023-11-09,5.0,456.74,24.4,Credit Card,"805 Clifford Harbors
+New Russellshire, LA 12995",Completed
+294.0,124.0,558.0,2022-03-12,2.0,308.91,54.07,Bank Transfer,"3682 Jessica Key Suite 782
+South Tylerfort, CT 34423",Cancelled
+295.0,59.0,587.0,2024-11-02,4.0,721.78,11.2,Credit Card,"7195 Henson Mount
+Butlerstad, LA 37175",Cancelled
+296.0,158.0,594.0,,8.0,604.73,16.71,Credit Card,"694 Montes Islands
+East Kyle, DC 04172",Cancelled
+297.0,118.0,564.0,,5.0,1471.95,7.68,Credit Card,"4015 Rogers Throughway Suite 021
+North Felicialand, MA 03182",Cancelled
+298.0,171.0,417.0,2022-03-09,2.0,1930.47,42.11,Bank Transfer,"4506 Michael Squares Apt. 742
+Anthonyberg, CA 06236",Pending
+299.0,165.0,442.0,,6.0,2325.28,34.84,Credit Card,"30904 William Flat
+South Travis, MN 90141",Pending
+300.0,61.0,564.0,,9.0,1922.38,14.16,Credit Card,"626 Gonzalez Plains
+East Chelsea, GA 05060",Completed
+301.0,146.0,531.0,,8.0,594.88,39.3,Credit Card,"06638 Jefferson Pines Suite 996
+Brandychester, NC 86680",Pending
+302.0,171.0,483.0,2023-07-07,4.0,1107.02,28.93,Bank Transfer,"PSC 4205, Box 5908
+APO AA 51780",Cancelled
+303.0,130.0,524.0,2024-05-05,9.0,1188.67,53.67,Online Payment,"USCGC Bailey
+FPO AA 62114",Pending
+304.0,167.0,574.0,,3.0,2683.16,11.41,Online Payment,"5371 Michael Skyway
+West Amber, VA 79725",Cancelled
+305.0,12.0,516.0,2022-09-12,7.0,1979.65,13.67,Bank Transfer,"USS Lane
+FPO AE 28483",Completed
+306.0,90.0,420.0,,7.0,2286.96,11.55,Cash,"9899 Hines Place
+Lake Margaretberg, PA 43830",Cancelled
+307.0,120.0,564.0,,3.0,1370.49,9.22,Credit Card,"4849 Gutierrez Parks Apt. 038
+East Brianchester, DE 42064",Cancelled
+308.0,97.0,517.0,2023-08-11,4.0,259.71,16.35,Credit Card,"77870 Hawkins Hollow
+Lake Lindseyborough, SC 19283",Completed
+309.0,125.0,523.0,,8.0,3037.15,16.99,Bank Transfer,"69809 Anderson Estates Apt. 805
+Rodgerschester, WY 08835",Pending
+310.0,83.0,466.0,,4.0,3019.25,12.87,Bank Transfer,"709 Turner Trace Apt. 925
+West Kristenberg, NM 79361",Cancelled
+311.0,197.0,586.0,2023-01-04,8.0,879.7,34.53,Bank Transfer,"22358 Brett Orchard
+Carolborough, HI 90900",Completed
+312.0,171.0,508.0,,8.0,931.44,37.49,Cash,"799 Rogers Glens
+Lake Sherriport, VA 90969",Cancelled
+313.0,112.0,417.0,2024-10-03,9.0,722.16,25.7,Online Payment,"6546 Bailey Unions
+Maryport, MS 18830",Cancelled
+314.0,197.0,477.0,2024-04-05,7.0,502.33,40.42,Online Payment,"588 Cabrera Rapids
+Ramirezland, WY 20139",Completed
+315.0,159.0,444.0,,5.0,1243.73,36.46,Cash,"436 Mark Square
+West Lisamouth, CO 18670",Completed
+316.0,10.0,416.0,,3.0,467.38,48.29,Cash,"2336 Green Streets Suite 880
+Thomaston, DE 60100",Completed
+317.0,120.0,427.0,,3.0,1063.14,6.54,Online Payment,"05925 Misty Village Suite 718
+North Allenfurt, KY 67727",Cancelled
+318.0,159.0,463.0,,8.0,775.04,44.04,Cash,"6404 Jeff Green
+Lake Patrickchester, HI 34700",Completed
+319.0,63.0,522.0,2023-04-03,8.0,427.77,25.16,Bank Transfer,"1791 Brittany Ramp
+Meltonside, LA 85093",Pending
+320.0,92.0,421.0,,8.0,362.99,36.6,Bank Transfer,"77953 Banks Square Apt. 354
+New Kimberly, ME 86436",Cancelled
+321.0,40.0,453.0,2024-08-04,1.0,2641.84,12.24,Credit Card,"8233 Martinez Circles Apt. 805
+Port Thomas, NV 92356",Cancelled
+322.0,152.0,571.0,2023-11-10,5.0,2492.76,16.54,Bank Transfer,"07694 Rodriguez Route Suite 873
+North Steven, MI 39690",Cancelled
+323.0,32.0,503.0,,6.0,114.9,32.7,Bank Transfer,"6778 Brian Fall Apt. 613
+West Amandaland, AR 08604",Pending
+324.0,43.0,491.0,,5.0,928.99,57.16,Cash,"559 Donaldson Port Suite 464
+Webershire, KS 87757",Pending
+325.0,159.0,529.0,,1.0,892.7,8.69,Bank Transfer,"59956 Guerra Spring Apt. 815
+Johnsonton, OK 38800",Cancelled
+326.0,50.0,589.0,2024-11-01,6.0,2026.39,24.41,Credit Card,"3435 Ross Isle
+Milesshire, VA 38277",Pending
+327.0,48.0,551.0,,8.0,1654.63,68.39,Bank Transfer,"458 Jason Common Apt. 626
+Shaneport, NJ 99144",Cancelled
+328.0,1.0,405.0,,6.0,220.89,9.93,Bank Transfer,"6574 Debbie Knoll
+Port Katie, CT 27862",Pending
+329.0,65.0,424.0,,5.0,960.88,54.69,Bank Transfer,"46727 Daniel Well Apt. 506
+North Richard, NE 13877",Pending
+330.0,154.0,513.0,,3.0,712.17,8.54,Online Payment,"81594 Rhonda Glens Apt. 001
+South Hannahburgh, DE 17135",Cancelled
+331.0,46.0,571.0,,7.0,3373.39,20.33,Bank Transfer,"372 Jerry Plains
+New Nicole, CT 30540",Cancelled
+332.0,168.0,495.0,,6.0,1141.2,37.85,Credit Card,"468 Smith Harbor
+Smithside, IL 55273",Pending
+333.0,123.0,460.0,2022-04-08,5.0,355.86,70.59,Online Payment,"75641 Colon Viaduct Apt. 016
+North Andrea, WI 99709",Cancelled
+334.0,63.0,582.0,,6.0,1218.08,14.65,Cash,"94119 Wallace Highway
+West Jeffhaven, ME 29636",Completed
+335.0,59.0,597.0,2022-06-12,8.0,750.66,70.3,Cash,"832 Thompson Islands Suite 033
+Smithton, NE 71996",Pending
+336.0,146.0,465.0,2024-05-02,1.0,1103.32,14.96,Online Payment,"614 Bianca Passage
+North Nicolemouth, LA 13354",Completed
+337.0,133.0,508.0,,1.0,1397.14,33.34,Credit Card,"USNV Rush
+FPO AP 50437",Completed
+338.0,27.0,495.0,,4.0,976.18,26.83,Cash,"2990 Salinas Groves
+Gloverhaven, NJ 77541",Completed
+339.0,74.0,544.0,2023-10-03,2.0,1529.74,5.01,Credit Card,"115 Miller Manor Suite 995
+Smithside, FL 07771",Pending
+340.0,191.0,412.0,,5.0,808.52,12.79,Bank Transfer,"89190 Perkins Heights
+West Melissa, IL 57863",Cancelled
+341.0,34.0,566.0,,1.0,1424.66,47.29,Cash,"678 Scott Manor
+North Melissaburgh, UT 46394",Completed
+342.0,13.0,469.0,2023-02-02,7.0,1385.57,31.33,Credit Card,"0617 Willis Knolls Apt. 318
+Millerport, CO 81865",Completed
+343.0,92.0,556.0,2022-04-08,8.0,2773.87,8.09,Bank Transfer,"41798 Shane Run Suite 947
+Robinsonmouth, VA 68031",Cancelled
+344.0,179.0,403.0,,4.0,441.2,70.05,Bank Transfer,"661 Gary Stream
+Lake Jeremy, MA 51930",Completed
+345.0,134.0,583.0,2024-10-03,4.0,501.16,45.28,Credit Card,"7651 Bryan Radial Apt. 355
+North Paulside, KS 77074",Cancelled
+346.0,1.0,541.0,,6.0,2721.92,59.06,Bank Transfer,"1744 Smith Spurs
+New Stacystad, AR 85133",Completed
+347.0,170.0,450.0,2023-02-12,4.0,3847.11,15.83,Bank Transfer,"54663 Latoya Junctions Apt. 625
+Kaneville, CT 02808",Completed
+348.0,17.0,438.0,2022-06-09,5.0,2241.87,34.06,Bank Transfer,"7061 Martinez Courts Apt. 025
+Nicholsonburgh, DC 75662",Pending
+349.0,82.0,403.0,,5.0,2149.12,23.69,Online Payment,"5444 Sarah Run
+New Laura, ME 55118",Completed
+350.0,33.0,407.0,,5.0,2893.69,34.37,Cash,"USCGC White
+FPO AA 56524",Pending
+351.0,23.0,453.0,,3.0,2682.45,12.5,Cash,"865 Valerie Valley
+South Timothy, OH 12541",Completed
+352.0,154.0,483.0,,9.0,1106.75,31.82,Cash,"14648 Taylor Fields
+Ashleyview, OR 50466",Pending
+353.0,16.0,417.0,,1.0,421.15,86.38,Online Payment,"20070 Melissa Squares
+Williamville, OR 21942",Pending
+354.0,35.0,417.0,2023-11-01,5.0,609.29,7.92,Credit Card,"USS Mercado
+FPO AA 55494",Cancelled
+355.0,87.0,519.0,,1.0,625.82,7.74,Online Payment,"8538 Jay Isle Suite 066
+New Sandrashire, ID 37188",Completed
+356.0,128.0,404.0,,1.0,2934.72,25.33,Cash,"472 James Wells Suite 446
+Lake Stephanie, AL 72106",Cancelled
+357.0,73.0,556.0,2023-12-11,9.0,288.91,20.04,Bank Transfer,"04800 Tami Course Suite 514
+Tuckerville, TX 94623",Pending
+358.0,67.0,494.0,,3.0,1060.57,61.52,Cash,"209 Stephanie Skyway Apt. 751
+South George, KY 55703",Completed
+359.0,45.0,478.0,2023-02-04,5.0,274.19,32.81,Credit Card,"4910 Davis Dam
+Garciahaven, FL 19230",Cancelled
+360.0,31.0,468.0,,9.0,2063.35,20.7,Bank Transfer,"672 Jackson Lake
+North Paul, ME 31185",Pending
+361.0,155.0,435.0,2023-11-02,7.0,504.23,25.13,Cash,"PSC 1840, Box 8799
+APO AA 47520",Pending
+362.0,83.0,428.0,,4.0,1091.47,51.4,Online Payment,"Unit 6936 Box 8663
+DPO AE 99346",Cancelled
+363.0,35.0,474.0,2023-04-02,5.0,936.21,50.01,Bank Transfer,"96922 Spence Viaduct
+West Ryan, MO 54419",Pending
+364.0,145.0,477.0,,8.0,2455.19,31.52,Online Payment,"9478 Maria Mountains
+Blackwellville, AL 36632",Pending
+365.0,75.0,437.0,,9.0,3722.02,32.93,Cash,"8752 Mark Street Suite 440
+Jenniferport, VA 51223",Pending
+366.0,145.0,535.0,,4.0,997.4,17.33,Cash,"46818 Maxwell Meadow Suite 518
+Vaughnland, CO 24269",Completed
+367.0,34.0,575.0,,3.0,583.05,45.73,Bank Transfer,"68058 Stevens Fall Apt. 738
+North Donald, WV 65005",Cancelled
+368.0,162.0,450.0,,9.0,778.46,50.02,Online Payment,"8267 Randall Circles
+Lake Carrie, MI 98874",Pending
+369.0,120.0,532.0,2024-11-01,6.0,3196.71,86.77,Credit Card,"PSC 6546, Box 5847
+APO AA 57061",Cancelled
+370.0,74.0,477.0,,2.0,400.02,18.72,Cash,"Unit 7496 Box 1862
+DPO AE 01648",Pending
+371.0,167.0,585.0,,8.0,1302.37,51.0,Bank Transfer,"4006 Navarro View
+East Jessica, ME 46265",Pending
+372.0,32.0,510.0,2023-04-02,2.0,1888.41,9.89,Online Payment,"97920 Gill Prairie Apt. 098
+Lake Melissaside, NC 45556",Completed
+373.0,9.0,501.0,2023-09-05,1.0,1570.11,68.34,Bank Transfer,"56167 Allison Pike Apt. 166
+Lake Christina, CT 13873",Completed
+374.0,100.0,475.0,,7.0,3669.38,32.17,Bank Transfer,"76333 Ingram Turnpike
+West Cherylberg, ID 45321",Cancelled
+375.0,9.0,411.0,2024-03-03,3.0,877.78,21.04,Online Payment,"08018 Sandoval Point
+Jimenezberg, VA 63967",Cancelled
+376.0,47.0,511.0,,7.0,2567.21,27.37,Credit Card,"498 Raymond Park
+North Martha, RI 29794",Completed
+377.0,184.0,425.0,,2.0,1638.21,24.3,Cash,"1209 Andre Estate Apt. 323
+Susanbury, NY 31041",Pending
+378.0,41.0,448.0,,1.0,161.44,42.53,Credit Card,"USCGC Simpson
+FPO AP 44357",Cancelled
+379.0,39.0,428.0,,2.0,846.56,17.47,Credit Card,"4096 David Parkways Suite 148
+Sherylberg, NY 83273",Completed
+380.0,91.0,432.0,2023-08-09,5.0,3313.88,57.31,Credit Card,"PSC 6812, Box 6943
+APO AP 10601",Pending
+381.0,58.0,522.0,2023-01-07,4.0,1110.51,22.97,Bank Transfer,"Unit 3731 Box 4659
+DPO AE 26644",Completed
+382.0,52.0,562.0,2022-12-10,5.0,4384.71,6.68,Cash,"366 Scott Mountains
+New Larry, AZ 34731",Cancelled
+383.0,95.0,421.0,,4.0,2066.74,69.95,Bank Transfer,"5691 Rojas Cape Suite 824
+Kristinaland, WY 29157",Pending
+384.0,117.0,522.0,,4.0,952.73,23.29,Credit Card,"35400 Allen Square
+New Kelly, MS 56972",Completed
+385.0,28.0,508.0,2023-03-10,5.0,328.49,56.45,Bank Transfer,"4020 Glass Turnpike Apt. 418
+Amyhaven, ID 43417",Pending
+386.0,138.0,465.0,,5.0,496.51,29.42,Credit Card,"86006 Amanda Hills
+Lake Lauratown, AL 93630",Completed
+387.0,171.0,547.0,,2.0,260.11,30.72,Bank Transfer,"2784 Sarah Corners Apt. 130
+Esparzaborough, CA 46610",Pending
+388.0,106.0,587.0,2023-03-08,3.0,3177.84,23.35,Cash,"40278 Brian Throughway Suite 193
+Lake Ericaburgh, AR 18647",Pending
+389.0,165.0,576.0,,3.0,470.54,3.32,Online Payment,"62521 Vargas Centers Apt. 002
+New Angelaside, UT 11720",Cancelled
+390.0,25.0,588.0,,9.0,1426.78,31.06,Cash,"35755 Cruz Alley Suite 663
+New Danafurt, CT 30995",Pending
+391.0,108.0,593.0,2022-08-10,7.0,2046.17,19.69,Credit Card,"05435 Marshall Road
+Johnburgh, ME 21649",Completed
+392.0,93.0,411.0,2023-07-02,2.0,342.14,33.37,Credit Card,"0347 Andre Wall Apt. 550
+Lake Austin, GA 33768",Pending
+393.0,88.0,573.0,,1.0,339.1,69.72,Online Payment,"641 Price Loop Apt. 784
+Port Eric, SD 73513",Cancelled
+394.0,170.0,564.0,,4.0,1913.03,37.66,Online Payment,"95377 Kathleen Mill
+Osbornville, IA 41740",Completed
+395.0,113.0,440.0,,4.0,565.17,26.05,Online Payment,"1118 Bennett Mews
+Hoffmanland, KS 40222",Cancelled
+396.0,159.0,567.0,,8.0,1920.7,45.28,Online Payment,"6013 Mayer Fords Suite 447
+Jefferyside, NC 94189",Pending
+397.0,167.0,576.0,,7.0,801.4,76.88,Cash,"7940 Darryl Walks
+Ericstad, MS 73308",Cancelled
+398.0,16.0,600.0,,6.0,142.85,32.4,Credit Card,"5638 Sanchez Extensions
+Lake Amanda, MN 30821",Pending
+399.0,116.0,581.0,2022-04-08,7.0,1182.07,36.26,Credit Card,"050 Byrd Burg Apt. 206
+East Johnfort, KS 76577",Cancelled
+400.0,186.0,577.0,2022-12-09,2.0,1829.07,20.41,Cash,"USCGC Peterson
+FPO AA 83067",Completed
+510.0,510.0,510.0,,5.0,387.07,19.48,PayPal,8 Pankratz Hill,Delivered
+516.0,516.0,516.0,,4.0,154.87,11.79,PayPal,593 Gale Plaza,Cancelled
+522.0,522.0,522.0,,5.0,175.3,15.39,PayPal,9597 Colorado Place,Cancelled
+543.0,543.0,543.0,,2.0,406.77,12.78,PayPal,66464 Charing Cross Junction,Processing
+558.0,558.0,558.0,,1.0,209.63,1.83,PayPal,8 Fordem Place,Delivered
+563.0,563.0,563.0,,2.0,151.37,16.31,PayPal,7 Transport Drive,Processing
+564.0,564.0,564.0,,3.0,327.07,9.97,PayPal,405 Arapahoe Parkway,Cancelled
+566.0,566.0,566.0,,1.0,224.82,1.39,PayPal,0 Sachtjen Plaza,Processing
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
+1.0,2.0,,2003-01-23,1.0,0.0,0.0,Unknown,Unknown,Unknown
